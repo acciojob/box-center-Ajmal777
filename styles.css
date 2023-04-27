@@ -9,12 +9,14 @@ div{
 	align-items: center;
 	
 	background-color: lightblue;
-	color: purple;
 	
-	font-family: sans-serif;
-	font-size: 20px;
 	
 	border: 2px solid black;
 	width: 200px;
 	height: 200px;
+}
+p:first-child{
+	color: purple;	
+	font-family: sans-serif;
+	font-size: 20px;
 }
